@@ -1,0 +1,22 @@
+{
+  "name": "three-way-toggle",
+  "version": "0.0.1",
+  "description": "Three way toggle button",
+  "keywords": ["three", "way", "toggle", "switch", "three way toggle switch", "3 way toggle", "3 way toggle swtich"],
+  "author": {
+    "name": "Vinay Arkasali",
+    "email": "vinayarkasaali@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmrahul/three-way-toggle.gitnpm "
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
